@@ -1,5 +1,8 @@
-.App {
+h4 {
   text-align: center;
+  text-decoration: dotted;
+  color: red;
+  font-size: 30px;
 }
 
 .App-logo {
